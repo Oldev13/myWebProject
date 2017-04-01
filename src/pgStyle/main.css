@@ -1,0 +1,30 @@
+.mainLogo{
+	
+	position: absolute;
+	width: 200px;
+	height:100px;
+	left:calc(50% - 100px);
+	background:rgba(0,0,0,0.75);
+	
+}
+
+.page{
+	
+	position:absolute;
+	top:100%;
+	width:100%;
+	background:#333333;
+}
+ 
+ .cont{
+	 position:absolute;
+	 width:80%;
+	 height:inherit;
+	 left:10%;
+	 box-shadow: inset 6px 4px 28px 0px rgba(0,0,0,0.75);
+	 
+ }
+
+.header{background:rgba(0,0,0,0.75);}
+.butmenu{background: rgba(0,0,0,0.75);}
+.Logo{display:none;}
